@@ -42,7 +42,7 @@
  * 
  *  1 . Créer un fichier commentaire.php;
  * 
- *  2 . Ecrire un commentaire d'une ligne qui explique l'exercice 2
+ *  2 . Ecrire un commentaire d'une ligne qui explique l'exercice 2  
  * 
  *  3 . Ecrire un commentaire sur plusieurs lignes pour expliquer la différence entre echo et print
  * 
